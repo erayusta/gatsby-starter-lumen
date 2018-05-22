@@ -1,30 +1,30 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    url: 'https://www.erayusta.com',
+    title: 'Eray Usta Blogu',
+    subtitle: 'Blogumda tecrübelerimi paylaşmaya çalışacağım.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'İçerikler',
         path: '/'
       },
       {
-        label: 'About me',
-        path: '/about/'
+        label: 'Hakkımda',
+        path: '/hakkimda/'
       },
       {
-        label: 'Contact me',
-        path: '/contact/'
+        label: 'İltişim',
+        path: '/iletisim/'
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
+      name: 'Eray Usta',
+      email: 'eray()erusoft.com',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'erayusta',
+      github: 'erayusta',
       rss: '#',
       vk: '#'
     }
